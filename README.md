@@ -7,9 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Sakdinat2548&theme=catppuccin_mocha&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sakdinat2548&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
